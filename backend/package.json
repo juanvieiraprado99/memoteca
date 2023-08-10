@@ -7,12 +7,14 @@
     "node": "16.x"
   },
   "scripts": {
-    "start": "json-server --watch db.json"
+    "dev": "NODE_ENV=development node server.js",
+    "start": "json-server db.json --port=8000"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.3"
+    "clone": "^2.1.2",
+    "json-server": "^0.17.1"
   }
 }
