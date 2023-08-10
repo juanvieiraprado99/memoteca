@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Tenho que aprender typescript pra hoje",
+      "autoria": "Juan",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Tenho que aprender angular",
+      "autoria": "Juan",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Sobre json server",
+      "autoria": "Juan",
+      "modelo": "modelo3"
+    }
+  ]
+}
