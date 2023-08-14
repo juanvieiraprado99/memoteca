@@ -1,27 +1,51 @@
-# Memoteca
+<h1 align="center">
+    <img alt="Memoteca" src=".github/cover.png" />
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+<br>
 
-## Development server
+## 🧪 Tecnologias
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Code scaffolding
+- [Angular](https://angular.io/)
+- [JSON Server](https://www.npmjs.com/package/json-server)
+- [TypeScript](https://www.typescriptlang.org/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Como executar
 
-## Build
+Clone o projeto e acesse a pasta do mesmo.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```bash
+$ git clone https://github.com/juanvieiraprado99/memoteca.git
+$ cd memoteca
+```
 
-## Running unit tests
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências do front-ent
+$ npm i
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# Entrar no diretório backend
+$ cd backend/
 
-## Running end-to-end tests
+# Instalar as dependências do back-end
+$ npm i 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Executar back-end
+$ npm run start
 
-## Further help
+# Executar o front-end
+$ ng s
+```
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 💻 Projeto
+
+Memoteca é um projeto para as pessoas registrarem seus pensamentos, onde eles podem ser editados excluídos.
+
+O projeto foi feito utilizando angular com typescript para o Front-end e para o Back-end foi utilizado o JSON Server para simular um API REST.
+
+## 📝 License
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.

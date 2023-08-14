@@ -2,27 +2,21 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Tenho que aprender typescript pra hoje",
-      "autoria": "Juan",
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
       "modelo": "modelo1"
     },
     {
       "id": 2,
-      "conteudo": "Tenho que aprender angular",
-      "autoria": "Juan",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Sobre json server 2",
-      "autoria": "Juan",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Acabei de subir essa aplicação",
-      "autoria": "Juan Vieira Prado",
-      "modelo": "modelo1",
-      "id": 4
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
+      "modelo": "modelo1"
     }
   ]
 }
