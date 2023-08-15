@@ -46,6 +46,8 @@ Memoteca é um projeto para as pessoas registrarem seus pensamentos, onde eles p
 
 O projeto foi feito utilizando angular com typescript para o Front-end e para o Back-end foi utilizado o JSON Server para simular um API REST.
 
+Foram utilizados recursos do angular como roteamento de rotas, diretivas, injeção de dependência, requisições http através do HttpClient.
+
 ## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
